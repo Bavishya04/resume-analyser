@@ -6,6 +6,33 @@ Professional AI-powered resume analysis using real NLP models (OpenAI GPT-4o or 
 
 ---
 
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Signup Page
+![Signup Page](screenshots/signup.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Resume Upload
+![Resume Upload](screenshots/resume.png)
+
+### Feedback
+![Feedback](screenshots/feedback.png)
+
+### Feedback Details 1
+![Feedback Details 1](screenshots/feedback1.png)
+
+### Feedback Details 2
+![Feedback Details 2](screenshots/feedback2.png)
+
+### History
+![History](screenshots/history.png)
+
 ## ✨ Features
 
 ✅ **Real NLP-Powered Analysis** - Not just keyword matching
